@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Tomas             | 2 	        |
+| Tomas Baublys     | 2 	        |
